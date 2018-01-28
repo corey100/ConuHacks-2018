@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_b5ee4aa7a987d22775c024868f950ac32f401757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_4130780e809062059dff6baf10fc64af1243736a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_c754bfd18bbd5e49d3b8e9c6aac2086e2360fd1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_1de90baffb5d56a2ee32fdaca9839a35ab7e724c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_e51083dff40ebb913779c9398229f0f20df931ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_2b2600f450a2e20726ed98be393e8d522e1e9fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_f613a6239cba16ada436d7b7d621c9b94ea4645f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_a0d3ff6f7f84380eae09b8c537d7cc3e92c3d850.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/libs/libandroid_tensorflow_inference_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6454951fd82b6c2de1666263e2cd6e593627d878">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/libandroid_tensorflow_inference_java_acdab45055daa0d77d1a11170e649e9fa388c071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_4b628dbf2050bd152d98b175dcf41c7d407a2115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/exploded-aar/com.flurgle/camerakit/0.9.13/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de88437391a415b2e5985d2ff36e017141adcb4d">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/com.flurgle-camerakit-0.9.13_fced4dbe58b91eedcdb6af52654f1e3f5abe6c2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/coreycohen/Desktop/AndroidTensorFlowMachineLearningExample-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_0c51d0d8a31ee5b4a99ed1ef87ca8e56a098b9a9.jar" />
+    </item>
+
+</items>
